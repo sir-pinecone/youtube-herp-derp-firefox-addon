@@ -1,4 +1,5 @@
-Replaces YouTube comments with random herp derps. This is modification of github.com/twstokes/herpderp
+Replaces YouTube comments with random herp derps. Click on the comment text to reveal the original.
+This is modification of github.com/twstokes/herpderp
 
 Note: Ignores iframe embedded videos, including the chat replay iframe on YouTube livestream vids.
 
