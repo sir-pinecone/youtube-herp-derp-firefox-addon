@@ -5,7 +5,14 @@ Note: Ignores iframe embedded videos, including the chat replay iframe on YouTub
 
 ## Install
 
+**Firefox**
 * I have a signed xpi that you can immediately install. Open `build/` and drag the xpi into Firefox.
+
+**Chrome**
+* Unzip the Chrome addon file in the `build` folder.
+* Go to Chrome extensions page. Toggle the developer mode (top-right of page). Click `Load
+  unpacked`.
+* Select the unzipped folder.
 
 ## Development
 
