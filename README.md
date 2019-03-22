@@ -17,5 +17,7 @@ file.
 ### Signing and Building
 
 * Install web-ext with `$ npm install --global web-ext`
-* Generate an unlisted xpi with 'web-ext sign --channel unlisted --api-key <your add-on signing key> --api-secret <your add-on signing secret>`. Those keys can be obtained from https://addons.mozilla.org/en-US/developers/addon/api/key/
+* Generate an unlisted xpi with:
+  'web-ext sign --channel unlisted --api-key <your add-on signing key> --api-secret <your add-on signing secret>`.
+  Those keys can be obtained from https://addons.mozilla.org/en-US/developers/addon/api/key/
 * Drag downloaded xpi into Firefox.
