@@ -1,4 +1,4 @@
 node_modules
 .web-extension-id
-sign.sh
 web-ext-artifacts/
+sign-firefox-extension.sh

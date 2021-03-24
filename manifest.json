@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "YouTube Herp Derp",
   "description": "Replaces YouTube comments with herp derps. Forked from github.com/twstokes/herpderp",
-  "homepage_url": "https://michael.is",
+  "homepage_url": "https://github.com/sir-pinecone/youtube-herp-derp-browser-extension",
   "version": "1.0.3",
   "icons": {
     "48": "icons/herp48.png",
@@ -11,7 +11,7 @@
   "content_scripts": [
     {
       "run_at": "document_idle",
-      "all_frames": false, // Ignore iframes.
+      "all_frames": false,
       "matches": [
         "https://apis.google.com/*",
         "https://plus.googleapis.com/*",
